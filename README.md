@@ -1,9 +1,22 @@
-### Hi I'm Marijn 👋
+## <h1 align="center">Hi I'm Marijn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### About Me
+### 🙋‍♂️ | About Me
 
-- 🐌 I'm working on a FiveM server using Lua, JavaScript and HTML
-- 🌱 I’m currently learning C++
-- 📫 If you need me I'm always available on discord! ("&lt;/NijramGamer&gt;#7006")
+- 🌱 I'm currently learning TypeScript!
+- 💬 My code buddy is @djquinten
+- 💻 Every day is a new code day for me!
+- 📫 You can always reach me on Discord! Feel free to send me a message ("&lt;/NijramGamer&gt;#7006").
 
+## 🌐| My Websites
 
+- https://nijramgamer.nl/
+
+## 💻 | My Specialties
+
+- HTML
+- CSS (Plain / Bootstrap)
+- Javascript (Plain / jQuery)
+- PHP (Plain / Laravel)
+- Typescript
+- Lua 
+- SQL
