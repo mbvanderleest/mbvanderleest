@@ -14,7 +14,7 @@
 ## 💻 | My Specialties
 
 - HTML
-- CSS (Plain / Bootstrap)
+- CSS (Plain / Tailwind)
 - Javascript (Plain / jQuery)
 - PHP (Plain / Laravel)
 - Typescript
