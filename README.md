@@ -2,21 +2,17 @@
 
 ### 🙋‍♂️ | About Me
 
-- 🌱 I'm currently learning TypeScript!
-- 💬 My code buddy is @djquinten
-- 💻 Every day is a new code day for me!
-- 📫 You can always reach me on Discord! Feel free to send me a message ("&lt;/NijramGamer&gt;#7006").
+Hey there! I'm Marijn, a developer with a strong focus on backend development. I have solid experience with the PHP framework Laravel, where I’m always working to innovate and refine my skills. I also do some frontend development, mainly using Tailwind CSS, but backend is where I truly feel at home.
 
 ## 🌐| My Websites
 
-- https://nijramgamer.nl/
+- https://mbvanderleest.nl/
 
 ## 💻 | My Specialties
 
-- HTML
-- CSS (Plain / Tailwind)
-- Javascript (Plain / jQuery)
-- PHP (Plain / Laravel)
-- Typescript
-- Lua 
+- HTML, CSS (Tailwind)
+- Javascript / Typescript
+- PHP (Laravel)
+- C
+- Lua
 - SQL
