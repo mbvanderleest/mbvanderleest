@@ -12,9 +12,9 @@ I’m an 18-year-old software development student at Bit Academy. I’ve been pa
 ## 🚀 Website
 Check out my projects and portfolio: [mbvanderleest.nl](https://mbvanderleest.nl/)
 
---
+---
 ## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,c,html,tailwind,js,php,docker,rails,react,laravel,next,ts,linux" />
 </p>
---
+---
