@@ -1,4 +1,4 @@
-<h1 style="display: flex; justify-content: center; align-items: center;">
+<h1 align="center" style="display: flex; justify-content: center; align-items: center;">
   Hi, I'm Marijn! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="margin-left: 8px;">
 </h1>
@@ -12,7 +12,9 @@ I’m an 18-year-old software development student at Bit Academy. I’ve been pa
 ## 🚀 Website
 Check out my projects and portfolio: [mbvanderleest.nl](https://mbvanderleest.nl/)
 
+--
 ## 🛠️ Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,c,html,tailwind,js,php,docker,rails,react,laravel,next,ts,linux" />
 </p>
+--
