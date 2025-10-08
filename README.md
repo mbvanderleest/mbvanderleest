@@ -1,18 +1,18 @@
-### <h1 align="center">Hi I'm Marijn <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 style="display: flex; justify-content: center; align-items: center;">
+  Hi, I'm Marijn! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="margin-left: 8px;">
+</h1>
 
-### 🙋‍♂️ | About Me
+<h3 align="center">Fullstack Developer | Laravel | React | Next.js</h3>
 
-Hey there! I'm Marijn, a developer with a strong focus on backend development. I have solid experience with the PHP framework Laravel, where I’m always working to innovate and refine my skills. I also do some frontend development, mainly using Tailwind CSS, but backend is where I truly feel at home.
+---
 
-## 🌐| My Websites
+I’m an 18-year-old software development student at Bit Academy. I’ve been passionate about coding since I was young, and having clear goals has always guided my educational and career choices. Outside of school, I take on freelance projects, building practical, custom websites for clients.
 
-- https://mbvanderleest.nl/
+## 🚀 Website
+Check out my projects and portfolio: [mbvanderleest.nl](https://mbvanderleest.nl/)
 
-## 💻 | My Specialties
-
-- HTML, CSS (Tailwind)
-- Javascript / Typescript
-- PHP (Laravel)
-- C
-- Lua
-- SQL
+## 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,c,html,tailwind,js,php,docker,rails,react,laravel,next,ts,linux" />
+</p>
