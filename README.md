@@ -17,4 +17,3 @@ Check out my projects and portfolio: [mbvanderleest.nl](https://mbvanderleest.nl
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,c,html,tailwind,js,php,docker,rails,react,laravel,next,ts,linux" />
 </p>
----
